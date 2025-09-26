@@ -58,14 +58,7 @@
 
 ## 🌍 Languages  
 - 🇬🇧 English — Proficient in reading technical documentation  
-- 🇻🇳 Vietnamese — Native  
-
----
-
-## 📌 Summary  
-💡 AI Engineer with expertise in **Machine Learning, Deep Learning, Computer Vision, and NLP**  
-⚡ Skilled in building end-to-end pipelines with modern AI tools  
-🌎 Eager to apply AI knowledge to deliver impactful products  
+- 🇻🇳 Vietnamese — Native   
 
 ---
 

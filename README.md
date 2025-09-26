@@ -49,19 +49,6 @@
 
 ---
 
-## 🌟 Soft Skills  
-- 📖 Research skills & effective GenAI exploitation  
-- 🔄 Scrum & Agile methodology  
-- 🧩 Logical & critical thinking  
-
----
-
-## 🌍 Languages  
-- 🇬🇧 English — Proficient in reading technical documentation  
-- 🇻🇳 Vietnamese — Native   
-
----
-
 ## 📫 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/vtienph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>

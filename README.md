@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Tien Pham</h1>  
 
 <p align="center">
-  🚀 <b>AI Engineer | Computer Vision | NLP | LLMs</b> <br>
-  🌟 Passionate about building practical AI models to solve real-world challenges  
+  🚀 <b>AI Engineer | Computer Vision | NLP | LLMs</b> <br>  
 </p>
 
 ---
@@ -10,8 +9,7 @@
 ## 🧑‍💻 About Me  
 - 🔬 AI Engineer specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**  
 - 🧠 Experienced in **LLMs, Prompt Engineering**, and developing end-to-end AI pipelines  
-- 🌱 Lifelong learner, always exploring the latest advancements in AI  
-- 🤝 Open to collaborations on AI, research, and innovative applications  
+- 🌱 Lifelong learner  
 
 ---
 

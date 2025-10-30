@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me  
 - 🔬 AI Engineer specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**  
-- 🧠 Experienced in **LLMs, Prompt Engineering**, and developing end-to-end AI pipelines  
+- 🧠 Experienced in **LLMs, Prompt Engineering** 
 - 🌱 Lifelong learner  
 
 ---

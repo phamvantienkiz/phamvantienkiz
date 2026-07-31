@@ -7,9 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🔬 AI Engineer specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**  
-- 🧠 Experienced in **LLMs, Prompt Engineering** 
-- 🌱 Lifelong learner  
+- 💡 **AI Engineer & Co-founder @ AIOS** | Freelance Engineering Collective in Ho Chi Minh City 🇻🇳  
+- 🎯 **Specializations:** Computer Vision, Generative AI (LLMs/VLMs), RAG & AI Agents  
+- ⚙️ **Focus:** Building production-grade AI solutions, business process automation & digital transformation  
+- 🌱 Always learning, building, and exploring new AI technologies
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Tien Pham</h1>  
 
 <p align="center">
-  🚀 <b>AI Engineer | Computer Vision | NLP | LLMs</b> <br>  
+  🚀 <b>AI Engineer | Computer Vision | AI Agent | Embedded AI</b> <br>  
 </p>
 
 ---
@@ -47,6 +47,8 @@
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/vtienph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/phamvantienkiz"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://tienpham-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@hi-wenjin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vtienph" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/phamvantienkiz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>

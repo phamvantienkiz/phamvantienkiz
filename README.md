@@ -7,7 +7,8 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 💡 **AI Engineer & Co-founder @ AIOS** | Freelance Engineering Collective in Ho Chi Minh City 🇻🇳  
+- 💡 **AI Engineer & Co-founder @ AIOS** | Freelance Engineering Collective in Ho Chi Minh City 🇻🇳
+- 🌐 **Portfolio:** [tienpham-portfolio.vercel.app](https://tienpham-portfolio.vercel.app/)
 - 🎯 **Specializations:** Computer Vision, Generative AI (LLMs/VLMs), RAG & AI Agents  
 - ⚙️ **Focus:** Building production-grade AI solutions, business process automation & digital transformation  
 - 🌱 Always learning, building, and exploring new AI technologies
